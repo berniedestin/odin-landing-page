@@ -69,11 +69,13 @@ body {
 }
 .hero-button{
     background-color: #3882F6;
+    border-color: #3882F6;
+    box-shadow: none;
     color: #F9FAF8;
     font-weight: 700;
     font-size: 18px;
     border-radius: 8px;
-    padding: 6px 24px;
+    padding: 6px 28px;
 }
 .placeholder-image{
     background-color: gray;
